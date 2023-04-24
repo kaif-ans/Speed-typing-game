@@ -52,3 +52,4 @@ function useWordGame(startingTime = 10) {
 }
 
 export default useWordGame;
+
